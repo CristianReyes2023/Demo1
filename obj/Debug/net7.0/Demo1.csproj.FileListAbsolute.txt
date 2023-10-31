@@ -1,0 +1,14 @@
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\bin\Debug\net7.0\Demo1.exe
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\bin\Debug\net7.0\Demo1.deps.json
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\bin\Debug\net7.0\Demo1.runtimeconfig.json
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\bin\Debug\net7.0\Demo1.dll
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\bin\Debug\net7.0\Demo1.pdb
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\Demo1.AssemblyInfoInputs.cache
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\Demo1.AssemblyInfo.cs
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\Demo1.dll
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\refint\Demo1.dll
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\Demo1.pdb
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\Demo1.genruntimeconfig.cache
+C:\Users\APM02-49\Documents\CristianReyes\.NET\proyectos.NET\repasolinq\Demo1\obj\Debug\net7.0\ref\Demo1.dll

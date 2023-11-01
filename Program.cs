@@ -10,7 +10,16 @@ internal class Program
         //---------------------------------
         // Linq02 demoLinq02 = new Linq02();
         // demoLinq02.PrintData();
+        // Linq02 student = new Linq02();
+        // student.PrintDataIdName();
+        //---------------------------
+        // Linq02 student = new Linq02();
+        // student.PrintDataV3();
+        //-----------------------------
+        // Linq02 student = new Linq02();
+        // student.Ordenamiento();
+        //------------------------------------
         Linq02 student = new Linq02();
-        student.PrintDataIdName();
+        student.JoinEntities();
     }
 }
